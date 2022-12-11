@@ -1,4 +1,4 @@
-modulePath="/usr/share/openjfx/lib"
+modulePath="/usr/share/javafx-fresh/lib"
 outputDirectory="./build/"
 headerOutputDirectory="./pi-ulcd-jni/"
 declare -a javafxModules=(
